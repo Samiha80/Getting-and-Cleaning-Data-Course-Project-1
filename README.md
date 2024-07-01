@@ -13,7 +13,7 @@ Here are the data for the project:
 https://files.fm/f/vyyb7k4a23
 
 
-You should create one R script called run_analysis.R that does the following.
+You should create one R script called Run_Analysis.R that does the following.
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
